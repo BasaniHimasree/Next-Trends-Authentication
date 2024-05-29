@@ -1,0 +1,39 @@
+.nxtwave-logo {
+  height: 40px;
+  width: 200px;
+  margin-left: 200px;
+}
+.components {
+  height: 50px;
+  width: 50px;
+}
+.components-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 20px;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.item {
+  list-style-type: none;
+  margin: 10px;
+}
+.logout-button {
+  height: 40px;
+  width: 100px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-width: 0px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.list-items {
+  display: flex;
+  font-family: roboto;
+  padding: 10px;
+}
